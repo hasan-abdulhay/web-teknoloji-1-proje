@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgba(247, 244, 231, 0.97);
+   margin: 30px auto;
+   padding: 10PX;
+}
+nav img {
+    float: left;
+    width: 70px;
+}
+nav p{
+    float: right;
+ color: blue;
+}
+.kabak{
+    clear: both;
+    text-align: center;
+    font-size:x-large;
+}
+
+h1 {
+    text-align: center;
+}
+
+.yazi{
+font-size: x-large;
+}
+.sa-1{
+    float: left;
+    width: 48%;
+}
+.ca-1{
+    float: right;
+    width: 48%;
+}
+.temizle{
+    clear: both;
+}
+a:hover{
+ background-color: rgb(206, 171, 252);
+}
+a:visited{
+    color: brown;
+}
+.pcard{
+    font-size: medium;
+}
